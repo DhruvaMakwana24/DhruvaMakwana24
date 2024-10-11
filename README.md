@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am current working on How to improvise the mocha  model.<br>I like to work on the web technology.
+Hi, I’m Dhruva Makwana, a passionate Computer Science student at Kolhapur Institute of Technology with a flair for turning ideas into dynamic, user-friendly digital experiences. Whether it’s building seamless web interfaces as a frontend developer or diving into IoT innovations, I thrive on solving complex problems through code.
+
+<br>With a knack for C++, Java, PHP, and web technologies like HTML and CSS, I’ve brought projects to life—from interview platforms to smart parking systems. I'm also deeply involved in the tech community, organizing workshops, contributing to open-source, and tackling challenges on GitHub, LeetCode, and CodeChef.
+
+<br>Fueled by curiosity and a love for innovation, I’m always on the lookout for opportunities to push the boundaries of technology and deliver impactful solutions. Let's build something amazing together!
 
 
 ## 🌐 Socials:
